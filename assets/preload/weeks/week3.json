@@ -1,0 +1,39 @@
+{
+	"storyName": "Vandinn",
+	"hideFreeplay": true,
+	"weekBackground": "studio",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"All Seeing Eye",
+			"vandinn",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Takeover",
+			"vandinn",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"vandinn",
+		"bf",
+		"gf"
+	],
+	"weekName": "vandinn"
+}

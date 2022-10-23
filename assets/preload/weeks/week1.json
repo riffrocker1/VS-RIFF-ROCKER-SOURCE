@@ -1,0 +1,58 @@
+{
+	"storyName": "Vs Riff Rocker",
+	"difficulties": "Easy,Normal,Hard",
+	"hideFreeplay": false,
+	"weekBackground": "studio",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Air Rock",
+			"rocker",
+			[
+				175,
+				74,
+				90
+			]
+		],
+		[
+			"Realization",
+			"rocker-angry",
+			[
+				124,
+				52,
+				60
+			]
+		],
+		[
+			"Celeste Conundrum",
+			"vandinn",
+			[
+				35,
+				157,
+				147
+			]
+		],
+		[
+			"Outrage",
+			"rocker-pissed",
+			[
+				64,
+				52,
+				60
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"rocker-new",
+		"bf",
+		"gf"
+	],
+	"weekName": "riff1"
+}
