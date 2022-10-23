@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Riff Idle",
+	"image": "Menu_Rocker_New",
+	"position": [
+		50,
+		46
+	],
+	"scale": 0.75,
+	"confirm_anim": "M Dad Idle"
+}

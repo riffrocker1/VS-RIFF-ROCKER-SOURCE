@@ -1,0 +1,24 @@
+{
+	"position": [
+		250,
+		150
+	],
+	"dialogue_pos": "left",
+	"scale": 1.5,
+	"image": "Placeholder_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "Placeholder",
+			"loop_name": "Placeholder"
+		}
+	]
+}

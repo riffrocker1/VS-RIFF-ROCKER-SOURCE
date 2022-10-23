@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="outrage.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dead Riff Icon0000" x="0" y="0" width="101" height="104" frameX="0" frameY="-6" frameWidth="102" frameHeight="112"/>
+	<SubTexture name="Dead Riff Icon0001" x="101" y="0" width="102" height="106" frameX="0" frameY="-5" frameWidth="102" frameHeight="112"/>
+	<SubTexture name="Dead Riff Icon0002" x="203" y="0" width="99" height="112" frameX="-1" frameY="0" frameWidth="102" frameHeight="112"/>
+	<SubTexture name="Riff Icon fix0000" x="302" y="0" width="101" height="99"/>
+	<SubTexture name="Riff Icon win0000" x="403" y="0" width="101" height="99"/>
+</TextureAtlas>

@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		220,
+		150
+	],
+	"scale": 1.4,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Riff Angry Loop",
+			"idle_name": "Riff Angy"
+		}
+	],
+	"image": "Riff_Angry_Dialogue"
+}

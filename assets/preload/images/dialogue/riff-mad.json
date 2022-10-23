@@ -1,0 +1,24 @@
+{
+	"position": [
+		220,
+		150
+	],
+	"dialogue_pos": "left",
+	"scale": 1.4,
+	"image": "Riff_Rage_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "Riff Rape",
+			"loop_name": "Riff Rage Loop"
+		}
+	]
+}
