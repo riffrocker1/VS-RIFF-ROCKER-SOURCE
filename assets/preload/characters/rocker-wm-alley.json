@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-120
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Riff Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				-120
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Riff Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				-116
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Riff Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-123
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Riff Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-120
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Riff Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Riff_Beta_Wege_Alley_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "rocker-wm",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		40,
+		66
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

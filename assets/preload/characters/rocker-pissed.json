@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-90,
+				-250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Riff Idle"
+		},
+		{
+			"offsets": [
+				-39,
+				-290
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Riff Left"
+		},
+		{
+			"offsets": [
+				-40,
+				-250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Riff Down"
+		},
+		{
+			"offsets": [
+				-46,
+				-310
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Riff Up"
+		},
+		{
+			"offsets": [
+				-60,
+				-253
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Riff Right"
+		},
+		{
+			"offsets": [
+				-53,
+				-253
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "laser",
+			"loop": false,
+			"name": "Riff Laser"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Riff_Robo_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "rocker-pissed",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		40,
+		66
+	],
+	"camera_position": [
+		-90,
+		180
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

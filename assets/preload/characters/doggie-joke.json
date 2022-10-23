@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Doggie Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				87,
+				39
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Doggie Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Doggie Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				68
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Doggie Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Doggie Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/funni/doggie-joke",
+	"position": [
+		90,
+		200
+	],
+	"healthicon": "doggie",
+	"flip_x": false,
+	"healthbar_colors": [
+		199,
+		36,
+		40
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Vandinn Idle"
+		},
+		{
+			"offsets": [
+				0,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Vandinn Right"
+		},
+		{
+			"offsets": [
+				25,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Vandinn Left"
+		},
+		{
+			"offsets": [
+				81,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Vandinn Up"
+		},
+		{
+			"offsets": [
+				0,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Vandinn Down"
+		},
+		{
+			"offsets": [
+				0,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "nice",
+			"loop": false,
+			"name": "Vandinn Nice"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Vandinn",
+	"position": [
+		60,
+		190
+	],
+	"healthicon": "vandinn",
+	"flip_x": false,
+	"healthbar_colors": [
+		35,
+		157,
+		147
+	],
+	"camera_position": [
+		-150,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

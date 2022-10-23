@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-91,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Riz Funni Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				11,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Riz Funni Left"
+		},
+		{
+			"offsets": [
+				-15,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Riz Funni Down"
+		},
+		{
+			"offsets": [
+				-29,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Riz Funni Up"
+		},
+		{
+			"offsets": [
+				-78,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Riz Funni Right"
+		},
+		{
+			"offsets": [
+				12,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "MISS RIZ LEFT"
+		},
+		{
+			"offsets": [
+				-11,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "MISS RIZ DOWN"
+		},
+		{
+			"offsets": [
+				-24,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "MISS RIZ UP"
+		},
+		{
+			"offsets": [
+				-90,
+				-9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "MISS RIZ RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/funni/Riz-joke",
+	"position": [
+		0,
+		210
+	],
+	"healthicon": "riz",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
