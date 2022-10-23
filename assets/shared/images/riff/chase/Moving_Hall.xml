@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Moving_Hall.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MovingWall instance 10000" x="0" y="0" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10001" x="886" y="0" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10002" x="1772" y="0" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10003" x="2658" y="0" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10004" x="3544" y="0" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10005" x="4430" y="0" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10006" x="5316" y="0" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10007" x="6202" y="0" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10008" x="7088" y="0" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10009" x="0" y="1013" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10010" x="886" y="1013" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10011" x="1772" y="1013" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10012" x="2658" y="1013" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10013" x="3544" y="1013" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10014" x="4430" y="1013" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10015" x="5316" y="1013" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10016" x="6202" y="1013" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10017" x="7088" y="1013" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10018" x="0" y="2026" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10019" x="886" y="2026" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10020" x="1772" y="2026" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10021" x="2658" y="2026" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10022" x="3544" y="2026" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10023" x="4430" y="2026" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10024" x="5316" y="2026" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10025" x="6202" y="2026" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10026" x="7088" y="2026" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10027" x="0" y="3039" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10028" x="886" y="3039" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10029" x="1772" y="3039" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10030" x="2658" y="3039" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10031" x="3544" y="3039" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10032" x="4430" y="3039" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10033" x="5316" y="3039" width="1001" height="1013"/>
+	<SubTexture name="MovingWall instance 10034" x="6317" y="3039" width="1001" height="1013"/>
+	<SubTexture name="MovingWall instance 10035" x="0" y="4052" width="976" height="1013" frameX="-25" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10036" x="976" y="4052" width="976" height="1013" frameX="-25" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10037" x="1952" y="4052" width="952" height="1013" frameX="-49" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10038" x="2904" y="4052" width="952" height="1013" frameX="-49" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10039" x="3856" y="4052" width="927" height="1013" frameX="-74" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10040" x="4783" y="4052" width="927" height="1013" frameX="-74" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10041" x="5710" y="4052" width="903" height="1013" frameX="-98" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10042" x="6613" y="4052" width="903" height="1013" frameX="-98" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10043" x="0" y="5065" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10044" x="886" y="5065" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10045" x="1772" y="5065" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10046" x="2658" y="5065" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10047" x="3544" y="5065" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10048" x="4430" y="5065" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10049" x="5316" y="5065" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10050" x="6202" y="5065" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10051" x="7088" y="5065" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10052" x="0" y="6078" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10053" x="886" y="6078" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10054" x="1772" y="6078" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10055" x="2658" y="6078" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10056" x="3544" y="6078" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10057" x="4430" y="6078" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10058" x="5316" y="6078" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10059" x="6202" y="6078" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10060" x="7088" y="6078" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10061" x="0" y="7091" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10062" x="886" y="7091" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10063" x="1772" y="7091" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10064" x="2658" y="7091" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+	<SubTexture name="MovingWall instance 10065" x="3544" y="7091" width="886" height="1013" frameX="-115" frameY="0" frameWidth="1001" frameHeight="1013"/>
+</TextureAtlas>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ST_Legs.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Leg Run ST0000" x="0" y="0" width="147" height="157" frameX="0" frameY="0" frameWidth="151" frameHeight="157"/>
+	<SubTexture name="Leg Run ST0001" x="0" y="0" width="147" height="157" frameX="0" frameY="0" frameWidth="151" frameHeight="157"/>
+	<SubTexture name="Leg Run ST0002" x="147" y="0" width="149" height="157" frameX="0" frameY="0" frameWidth="151" frameHeight="157"/>
+	<SubTexture name="Leg Run ST0003" x="147" y="0" width="149" height="157" frameX="0" frameY="0" frameWidth="151" frameHeight="157"/>
+	<SubTexture name="Leg Run ST0004" x="0" y="0" width="147" height="157" frameX="0" frameY="0" frameWidth="151" frameHeight="157"/>
+	<SubTexture name="Leg Run ST0005" x="296" y="0" width="150" height="144" frameX="0" frameY="0" frameWidth="151" frameHeight="157"/>
+	<SubTexture name="Leg Run ST0006" x="296" y="0" width="150" height="144" frameX="0" frameY="0" frameWidth="151" frameHeight="157"/>
+	<SubTexture name="Leg Run ST0007" x="0" y="157" width="151" height="150" frameX="0" frameY="0" frameWidth="151" frameHeight="157"/>
+	<SubTexture name="Leg Run ST0008" x="0" y="157" width="151" height="150" frameX="0" frameY="0" frameWidth="151" frameHeight="157"/>
+</TextureAtlas>

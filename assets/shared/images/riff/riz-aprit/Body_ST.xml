@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Body_ST.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ST Body Run0000" x="0" y="0" width="385" height="223"/>
+	<SubTexture name="ST Body Run0001" x="0" y="0" width="385" height="223"/>
+	<SubTexture name="ST Body Run0002" x="385" y="0" width="385" height="218" frameX="0" frameY="-5" frameWidth="385" frameHeight="223"/>
+	<SubTexture name="ST Body Run0003" x="385" y="0" width="385" height="218" frameX="0" frameY="-5" frameWidth="385" frameHeight="223"/>
+	<SubTexture name="ST Body Run0004" x="0" y="223" width="385" height="218" frameX="0" frameY="-5" frameWidth="385" frameHeight="223"/>
+	<SubTexture name="ST Body Run0005" x="0" y="223" width="385" height="218" frameX="0" frameY="-5" frameWidth="385" frameHeight="223"/>
+	<SubTexture name="ST Body Run0006" x="385" y="0" width="385" height="218" frameX="0" frameY="-5" frameWidth="385" frameHeight="223"/>
+	<SubTexture name="ST Body Run0007" x="385" y="0" width="385" height="218" frameX="0" frameY="-5" frameWidth="385" frameHeight="223"/>
+	<SubTexture name="ST Body Run0008" x="0" y="0" width="385" height="223"/>
+	<SubTexture name="ST Body Run0009" x="0" y="0" width="385" height="223"/>
+</TextureAtlas>
