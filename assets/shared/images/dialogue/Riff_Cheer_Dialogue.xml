@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Riff_Cheer_Dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Riff Cheer0000" x="0" y="0" width="241" height="308"/>
+	<SubTexture name="Riff Excited Loop0000" x="241" y="0" width="241" height="308"/>
+	<SubTexture name="Riff Excited Loop0001" x="482" y="0" width="241" height="308"/>
+	<SubTexture name="Riff Excited Loop0002" x="482" y="0" width="241" height="308"/>
+	<SubTexture name="Riff Excited Loop0003" x="723" y="0" width="241" height="308"/>
+	<SubTexture name="Riff Excited Loop0004" x="0" y="308" width="241" height="308"/>
+	<SubTexture name="Riff Excited Loop0005" x="241" y="308" width="241" height="308"/>
+</TextureAtlas>

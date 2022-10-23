@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF_Rage_Dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF Mald0000" x="0" y="0" width="381" height="407"/>
+	<SubTexture name="BF Mald0001" x="381" y="0" width="381" height="407"/>
+	<SubTexture name="BF Rage Loop0000" x="762" y="0" width="387" height="407"/>
+	<SubTexture name="BF Rage Loop0001" x="1149" y="0" width="387" height="407"/>
+	<SubTexture name="BF Rage Loop0002" x="1536" y="0" width="387" height="407"/>
+	<SubTexture name="BF Rage Loop0003" x="0" y="407" width="387" height="407"/>
+	<SubTexture name="BF Rage Loop0004" x="387" y="407" width="387" height="407"/>
+	<SubTexture name="BF Rage Loop0005" x="774" y="407" width="387" height="407"/>
+</TextureAtlas>

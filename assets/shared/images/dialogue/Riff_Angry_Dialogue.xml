@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Riff_Angry_Dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Riff Angry Loop0000" x="0" y="0" width="224" height="308"/>
+	<SubTexture name="Riff Angry Loop0001" x="224" y="0" width="224" height="308"/>
+	<SubTexture name="Riff Angry Loop0002" x="224" y="0" width="224" height="308"/>
+	<SubTexture name="Riff Angry Loop0003" x="448" y="0" width="224" height="308"/>
+	<SubTexture name="Riff Angry Loop0004" x="672" y="0" width="224" height="308"/>
+	<SubTexture name="Riff Angry Loop0005" x="0" y="308" width="224" height="308"/>
+	<SubTexture name="Riff Angy0000" x="0" y="308" width="224" height="308"/>
+</TextureAtlas>
