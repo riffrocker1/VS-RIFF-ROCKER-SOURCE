@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "riff-confused",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You still won't leave will you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "not without the boyfriend"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "riff-mad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fine time for me to call my friend"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "riff-confused",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hi Vandinn I sorta need some help getting this little twerp to leave."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "placeholder",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "alright I'm coming back now"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "riff-mad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "points to gf there she is"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "placeholder",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "girlfriend seems like you've been causing a lot of trouble with my friend and roommate so please leave or else the stuff we'll do"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "placeholder",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "to you won't be very good"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "well if you want us to leave you will have to make us"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so beat it"
+		}
+	]
+}

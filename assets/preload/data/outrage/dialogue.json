@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "placeholder",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sorry bro I tried but she won't leave"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "YOU BET YOUR STUPID ROBOTIC HEAD I WON'T"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "riff-mad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "AAAAAAAAAAAAAHHHHHHHH"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "riff-mad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "LOOK WHAT YOUR DAD DONE TO ME BUT SINCE YOU WON'T LEAVE I GUESS I WILL HAVE TO KILL YOU AND THE BOYFRIEND"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "riff-mad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BECAUSE YOU WON'T LEAVE PREPARE TO DIE"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		}
+	]
+}
