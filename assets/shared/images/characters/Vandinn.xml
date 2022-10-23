@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Vandinn.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Vandinn Down0000" x="0" y="0" width="182" height="481"/>
+	<SubTexture name="Vandinn Down0001" x="182" y="0" width="182" height="481"/>
+	<SubTexture name="Vandinn Down0002" x="364" y="0" width="182" height="476" frameX="0" frameY="-5" frameWidth="182" frameHeight="481"/>
+	<SubTexture name="Vandinn Down0003" x="546" y="0" width="182" height="476" frameX="0" frameY="-5" frameWidth="182" frameHeight="481"/>
+	<SubTexture name="Vandinn Down0004" x="728" y="0" width="182" height="469" frameX="0" frameY="-12" frameWidth="182" frameHeight="481"/>
+	<SubTexture name="Vandinn Down0005" x="910" y="0" width="182" height="469" frameX="0" frameY="-12" frameWidth="182" frameHeight="481"/>
+	<SubTexture name="Vandinn Down0006" x="1092" y="0" width="182" height="476" frameX="0" frameY="-5" frameWidth="182" frameHeight="481"/>
+	<SubTexture name="Vandinn Down0007" x="1274" y="0" width="182" height="476" frameX="0" frameY="-5" frameWidth="182" frameHeight="481"/>
+	<SubTexture name="Vandinn Down0008" x="1456" y="0" width="182" height="481"/>
+	<SubTexture name="Vandinn Down0009" x="1638" y="0" width="182" height="481"/>
+	<SubTexture name="Vandinn Down0010" x="1820" y="0" width="182" height="481"/>
+	<SubTexture name="Vandinn Down0011" x="2002" y="0" width="182" height="481"/>
+	<SubTexture name="Vandinn Down0012" x="2184" y="0" width="182" height="481"/>
+	<SubTexture name="Vandinn Down0013" x="2366" y="0" width="182" height="481"/>
+	<SubTexture name="Vandinn Down0014" x="2548" y="0" width="182" height="481"/>
+	<SubTexture name="Vandinn Down0015" x="2730" y="0" width="182" height="481"/>
+	<SubTexture name="Vandinn Down0016" x="2912" y="0" width="182" height="481"/>
+	<SubTexture name="Vandinn Down0017" x="3094" y="0" width="182" height="481"/>
+	<SubTexture name="Vandinn Down0018" x="3276" y="0" width="182" height="481"/>
+	<SubTexture name="Vandinn Down0019" x="3458" y="0" width="182" height="481"/>
+	<SubTexture name="Vandinn Down0020" x="3640" y="0" width="182" height="481"/>
+	<SubTexture name="Vandinn Down0021" x="3822" y="0" width="182" height="481"/>
+	<SubTexture name="Vandinn Down0022" x="0" y="481" width="182" height="481"/>
+	<SubTexture name="Vandinn Down0023" x="182" y="481" width="182" height="481"/>
+	<SubTexture name="Vandinn Down0024" x="364" y="481" width="182" height="481"/>
+	<SubTexture name="Vandinn Down0025" x="546" y="481" width="182" height="481"/>
+	<SubTexture name="Vandinn Down0026" x="728" y="481" width="182" height="481"/>
+	<SubTexture name="Vandinn Down0027" x="910" y="481" width="182" height="481"/>
+	<SubTexture name="Vandinn Idle0000" x="1092" y="481" width="182" height="479" frameX="0" frameY="-2" frameWidth="182" frameHeight="481"/>
+	<SubTexture name="Vandinn Idle0001" x="1274" y="481" width="182" height="479" frameX="0" frameY="-2" frameWidth="182" frameHeight="481"/>
+	<SubTexture name="Vandinn Idle0002" x="1456" y="481" width="182" height="469" frameX="0" frameY="-12" frameWidth="182" frameHeight="481"/>
+	<SubTexture name="Vandinn Idle0003" x="1638" y="481" width="182" height="466" frameX="0" frameY="-15" frameWidth="182" frameHeight="481"/>
+	<SubTexture name="Vandinn Idle0004" x="1820" y="481" width="182" height="480" frameX="0" frameY="-1" frameWidth="182" frameHeight="481"/>
+	<SubTexture name="Vandinn Idle0005" x="2002" y="481" width="182" height="480" frameX="0" frameY="-1" frameWidth="182" frameHeight="481"/>
+	<SubTexture name="Vandinn Idle0006" x="2184" y="481" width="182" height="481"/>
+	<SubTexture name="Vandinn Idle0007" x="2366" y="481" width="182" height="481"/>
+	<SubTexture name="Vandinn Idle0008" x="2548" y="481" width="182" height="481"/>
+	<SubTexture name="Vandinn Idle0009" x="2730" y="481" width="182" height="481"/>
+	<SubTexture name="Vandinn Idle0010" x="2912" y="481" width="182" height="481"/>
+	<SubTexture name="Vandinn Idle0011" x="3094" y="481" width="182" height="481"/>
+	<SubTexture name="Vandinn Idle0012" x="3276" y="481" width="182" height="481"/>
+	<SubTexture name="Vandinn Left0000" x="3458" y="481" width="198" height="481" frameX="-7" frameY="0" frameWidth="205" frameHeight="481"/>
+	<SubTexture name="Vandinn Left0001" x="3656" y="481" width="198" height="481" frameX="-7" frameY="0" frameWidth="205" frameHeight="481"/>
+	<SubTexture name="Vandinn Left0002" x="3854" y="481" width="198" height="481" frameX="-3" frameY="0" frameWidth="205" frameHeight="481"/>
+	<SubTexture name="Vandinn Left0003" x="0" y="962" width="198" height="481" frameX="-3" frameY="0" frameWidth="205" frameHeight="481"/>
+	<SubTexture name="Vandinn Left0004" x="198" y="962" width="198" height="481" frameX="0" frameY="0" frameWidth="205" frameHeight="481"/>
+	<SubTexture name="Vandinn Left0005" x="396" y="962" width="198" height="481" frameX="0" frameY="0" frameWidth="205" frameHeight="481"/>
+	<SubTexture name="Vandinn Left0006" x="594" y="962" width="198" height="481" frameX="-3" frameY="0" frameWidth="205" frameHeight="481"/>
+	<SubTexture name="Vandinn Left0007" x="792" y="962" width="198" height="481" frameX="-3" frameY="0" frameWidth="205" frameHeight="481"/>
+	<SubTexture name="Vandinn Left0008" x="990" y="962" width="198" height="481" frameX="-7" frameY="0" frameWidth="205" frameHeight="481"/>
+	<SubTexture name="Vandinn Left0009" x="1188" y="962" width="198" height="481" frameX="-7" frameY="0" frameWidth="205" frameHeight="481"/>
+	<SubTexture name="Vandinn Left0010" x="1386" y="962" width="198" height="481" frameX="-7" frameY="0" frameWidth="205" frameHeight="481"/>
+	<SubTexture name="Vandinn Left0011" x="1584" y="962" width="198" height="481" frameX="-7" frameY="0" frameWidth="205" frameHeight="481"/>
+	<SubTexture name="Vandinn Left0012" x="1782" y="962" width="198" height="481" frameX="-7" frameY="0" frameWidth="205" frameHeight="481"/>
+	<SubTexture name="Vandinn Left0013" x="1980" y="962" width="198" height="481" frameX="-7" frameY="0" frameWidth="205" frameHeight="481"/>
+	<SubTexture name="Vandinn Left0014" x="2178" y="962" width="198" height="481" frameX="-7" frameY="0" frameWidth="205" frameHeight="481"/>
+	<SubTexture name="Vandinn Left0015" x="2376" y="962" width="198" height="481" frameX="-7" frameY="0" frameWidth="205" frameHeight="481"/>
+	<SubTexture name="Vandinn Left0016" x="2574" y="962" width="198" height="481" frameX="-7" frameY="0" frameWidth="205" frameHeight="481"/>
+	<SubTexture name="Vandinn Left0017" x="2772" y="962" width="198" height="481" frameX="-7" frameY="0" frameWidth="205" frameHeight="481"/>
+	<SubTexture name="Vandinn Left0018" x="2970" y="962" width="198" height="481" frameX="-7" frameY="0" frameWidth="205" frameHeight="481"/>
+	<SubTexture name="Vandinn Left0019" x="3168" y="962" width="198" height="481" frameX="-7" frameY="0" frameWidth="205" frameHeight="481"/>
+	<SubTexture name="Vandinn Left0020" x="3366" y="962" width="198" height="481" frameX="-7" frameY="0" frameWidth="205" frameHeight="481"/>
+	<SubTexture name="Vandinn Left0021" x="3564" y="962" width="198" height="481" frameX="-7" frameY="0" frameWidth="205" frameHeight="481"/>
+	<SubTexture name="Vandinn Left0022" x="3762" y="962" width="198" height="481" frameX="-7" frameY="0" frameWidth="205" frameHeight="481"/>
+	<SubTexture name="Vandinn Left0023" x="0" y="1443" width="198" height="481" frameX="-7" frameY="0" frameWidth="205" frameHeight="481"/>
+	<SubTexture name="Vandinn Left0024" x="198" y="1443" width="198" height="481" frameX="-7" frameY="0" frameWidth="205" frameHeight="481"/>
+	<SubTexture name="Vandinn Nice0000" x="396" y="1443" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0001" x="578" y="1443" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0002" x="760" y="1443" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0003" x="942" y="1443" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0004" x="1124" y="1443" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0005" x="1306" y="1443" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0006" x="1488" y="1443" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0007" x="1670" y="1443" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0008" x="1852" y="1443" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0009" x="2034" y="1443" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0010" x="2216" y="1443" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0011" x="2398" y="1443" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0012" x="2580" y="1443" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0013" x="2762" y="1443" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0014" x="2944" y="1443" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0015" x="3126" y="1443" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0016" x="3308" y="1443" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0017" x="3490" y="1443" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0018" x="3672" y="1443" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0019" x="3854" y="1443" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0020" x="0" y="1931" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0021" x="182" y="1931" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0022" x="364" y="1931" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0023" x="546" y="1931" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0024" x="728" y="1931" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0025" x="910" y="1931" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0026" x="1092" y="1931" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0027" x="1274" y="1931" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0028" x="1456" y="1931" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0029" x="1638" y="1931" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0030" x="1820" y="1931" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0031" x="2002" y="1931" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0032" x="2184" y="1931" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0033" x="2366" y="1931" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0034" x="2548" y="1931" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0035" x="2730" y="1931" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0036" x="2912" y="1931" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0037" x="3094" y="1931" width="182" height="488"/>
+	<SubTexture name="Vandinn Nice0038" x="3276" y="1931" width="182" height="488"/>
+	<SubTexture name="Vandinn Right0000" x="3458" y="1931" width="185" height="481" frameX="0" frameY="0" frameWidth="192" frameHeight="481"/>
+	<SubTexture name="Vandinn Right0001" x="3643" y="1931" width="185" height="481" frameX="0" frameY="0" frameWidth="192" frameHeight="481"/>
+	<SubTexture name="Vandinn Right0002" x="3828" y="1931" width="186" height="481" frameX="-5" frameY="0" frameWidth="192" frameHeight="481"/>
+	<SubTexture name="Vandinn Right0003" x="0" y="2419" width="186" height="481" frameX="-5" frameY="0" frameWidth="192" frameHeight="481"/>
+	<SubTexture name="Vandinn Right0004" x="186" y="2419" width="185" height="481" frameX="-7" frameY="0" frameWidth="192" frameHeight="481"/>
+	<SubTexture name="Vandinn Right0005" x="371" y="2419" width="185" height="481" frameX="-7" frameY="0" frameWidth="192" frameHeight="481"/>
+	<SubTexture name="Vandinn Right0006" x="556" y="2419" width="186" height="481" frameX="-5" frameY="0" frameWidth="192" frameHeight="481"/>
+	<SubTexture name="Vandinn Right0007" x="742" y="2419" width="186" height="481" frameX="-5" frameY="0" frameWidth="192" frameHeight="481"/>
+	<SubTexture name="Vandinn Right0008" x="928" y="2419" width="185" height="481" frameX="0" frameY="0" frameWidth="192" frameHeight="481"/>
+	<SubTexture name="Vandinn Right0009" x="1113" y="2419" width="185" height="481" frameX="0" frameY="0" frameWidth="192" frameHeight="481"/>
+	<SubTexture name="Vandinn Right0010" x="1298" y="2419" width="185" height="481" frameX="0" frameY="0" frameWidth="192" frameHeight="481"/>
+	<SubTexture name="Vandinn Right0011" x="1483" y="2419" width="185" height="481" frameX="0" frameY="0" frameWidth="192" frameHeight="481"/>
+	<SubTexture name="Vandinn Right0012" x="1668" y="2419" width="185" height="481" frameX="0" frameY="0" frameWidth="192" frameHeight="481"/>
+	<SubTexture name="Vandinn Right0013" x="1853" y="2419" width="185" height="481" frameX="0" frameY="0" frameWidth="192" frameHeight="481"/>
+	<SubTexture name="Vandinn Right0014" x="2038" y="2419" width="185" height="481" frameX="0" frameY="0" frameWidth="192" frameHeight="481"/>
+	<SubTexture name="Vandinn Right0015" x="2223" y="2419" width="185" height="481" frameX="0" frameY="0" frameWidth="192" frameHeight="481"/>
+	<SubTexture name="Vandinn Up0000" x="2408" y="2419" width="261" height="481" frameX="0" frameY="0" frameWidth="280" frameHeight="481"/>
+	<SubTexture name="Vandinn Up0001" x="2669" y="2419" width="261" height="481" frameX="0" frameY="0" frameWidth="280" frameHeight="481"/>
+	<SubTexture name="Vandinn Up0002" x="2930" y="2419" width="277" height="481" frameX="-3" frameY="0" frameWidth="280" frameHeight="481"/>
+	<SubTexture name="Vandinn Up0003" x="3207" y="2419" width="277" height="481" frameX="-3" frameY="0" frameWidth="280" frameHeight="481"/>
+	<SubTexture name="Vandinn Up0004" x="3484" y="2419" width="277" height="481" frameX="-3" frameY="0" frameWidth="280" frameHeight="481"/>
+	<SubTexture name="Vandinn Up0005" x="3761" y="2419" width="277" height="481" frameX="-3" frameY="0" frameWidth="280" frameHeight="481"/>
+	<SubTexture name="Vandinn Up0006" x="0" y="2900" width="277" height="481" frameX="-3" frameY="0" frameWidth="280" frameHeight="481"/>
+	<SubTexture name="Vandinn Up0007" x="277" y="2900" width="277" height="481" frameX="-3" frameY="0" frameWidth="280" frameHeight="481"/>
+	<SubTexture name="Vandinn Up0008" x="554" y="2900" width="277" height="481" frameX="-3" frameY="0" frameWidth="280" frameHeight="481"/>
+	<SubTexture name="Vandinn Up0009" x="831" y="2900" width="277" height="481" frameX="-3" frameY="0" frameWidth="280" frameHeight="481"/>
+	<SubTexture name="Vandinn Up0010" x="1108" y="2900" width="277" height="481" frameX="-3" frameY="0" frameWidth="280" frameHeight="481"/>
+	<SubTexture name="Vandinn Up0011" x="1385" y="2900" width="277" height="481" frameX="-3" frameY="0" frameWidth="280" frameHeight="481"/>
+	<SubTexture name="Vandinn Up0012" x="1662" y="2900" width="277" height="481" frameX="-3" frameY="0" frameWidth="280" frameHeight="481"/>
+	<SubTexture name="Vandinn Up0013" x="1939" y="2900" width="277" height="481" frameX="-3" frameY="0" frameWidth="280" frameHeight="481"/>
+	<SubTexture name="Vandinn Up0014" x="2216" y="2900" width="277" height="481" frameX="-3" frameY="0" frameWidth="280" frameHeight="481"/>
+	<SubTexture name="Vandinn Up0015" x="2493" y="2900" width="277" height="481" frameX="-3" frameY="0" frameWidth="280" frameHeight="481"/>
+</TextureAtlas>

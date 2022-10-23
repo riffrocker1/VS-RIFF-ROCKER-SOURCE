@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Riff_Robo_V2_Assets.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Riff Pissed Down0000" x="0" y="0" width="353" height="467" frameX="0" frameY="-4" frameWidth="382" frameHeight="471"/>
+	<SubTexture name="Riff Pissed Down0001" x="353" y="0" width="355" height="468" frameX="-5" frameY="-3" frameWidth="382" frameHeight="471"/>
+	<SubTexture name="Riff Pissed Down0002" x="708" y="0" width="358" height="469" frameX="-9" frameY="-2" frameWidth="382" frameHeight="471"/>
+	<SubTexture name="Riff Pissed Down0003" x="1066" y="0" width="360" height="470" frameX="-14" frameY="-1" frameWidth="382" frameHeight="471"/>
+	<SubTexture name="Riff Pissed Down0004" x="1426" y="0" width="362" height="471" frameX="-20" frameY="0" frameWidth="382" frameHeight="471"/>
+	<SubTexture name="Riff Pissed Down0005" x="1788" y="0" width="360" height="470" frameX="-14" frameY="-1" frameWidth="382" frameHeight="471"/>
+	<SubTexture name="Riff Pissed Down0006" x="2148" y="0" width="358" height="469" frameX="-9" frameY="-2" frameWidth="382" frameHeight="471"/>
+	<SubTexture name="Riff Pissed Down0007" x="2506" y="0" width="355" height="468" frameX="-5" frameY="-3" frameWidth="382" frameHeight="471"/>
+	<SubTexture name="Riff Pissed Down0008" x="2861" y="0" width="353" height="467" frameX="0" frameY="-4" frameWidth="382" frameHeight="471"/>
+	<SubTexture name="Riff Pissed Down0009" x="3214" y="0" width="353" height="467" frameX="0" frameY="-4" frameWidth="382" frameHeight="471"/>
+	<SubTexture name="Riff Pissed Down0010" x="3567" y="0" width="353" height="467" frameX="0" frameY="-4" frameWidth="382" frameHeight="471"/>
+	<SubTexture name="Riff Pissed Down0011" x="0" y="471" width="353" height="467" frameX="0" frameY="-4" frameWidth="382" frameHeight="471"/>
+	<SubTexture name="Riff Pissed Down0012" x="353" y="471" width="353" height="467" frameX="0" frameY="-4" frameWidth="382" frameHeight="471"/>
+	<SubTexture name="Riff Pissed Down0013" x="706" y="471" width="353" height="467" frameX="0" frameY="-4" frameWidth="382" frameHeight="471"/>
+	<SubTexture name="Riff Pissed Down0014" x="1059" y="471" width="353" height="467" frameX="0" frameY="-4" frameWidth="382" frameHeight="471"/>
+	<SubTexture name="Riff Pissed Idle0000" x="1412" y="471" width="324" height="460"/>
+	<SubTexture name="Riff Pissed Idle0001" x="1736" y="471" width="324" height="460"/>
+	<SubTexture name="Riff Pissed Idle0002" x="2060" y="471" width="324" height="446" frameX="0" frameY="-11" frameWidth="324" frameHeight="460"/>
+	<SubTexture name="Riff Pissed Idle0003" x="2384" y="471" width="324" height="446" frameX="0" frameY="-11" frameWidth="324" frameHeight="460"/>
+	<SubTexture name="Riff Pissed Idle0004" x="2708" y="471" width="324" height="460"/>
+	<SubTexture name="Riff Pissed Idle0005" x="3032" y="471" width="324" height="460"/>
+	<SubTexture name="Riff Pissed Idle0006" x="3356" y="471" width="324" height="460"/>
+	<SubTexture name="Riff Pissed Idle0007" x="3680" y="471" width="324" height="460"/>
+	<SubTexture name="Riff Pissed Idle0008" x="0" y="938" width="324" height="460"/>
+	<SubTexture name="Riff Pissed Idle0009" x="324" y="938" width="324" height="460"/>
+	<SubTexture name="Riff Pissed Idle0010" x="648" y="938" width="324" height="460"/>
+	<SubTexture name="Riff Pissed Idle0011" x="972" y="938" width="324" height="460"/>
+	<SubTexture name="Riff Pissed Idle0012" x="1296" y="938" width="324" height="460"/>
+	<SubTexture name="Riff Pissed Idle0013" x="1620" y="938" width="324" height="460"/>
+	<SubTexture name="Riff Pissed Idle0014" x="1944" y="938" width="324" height="460"/>
+	<SubTexture name="Riff Pissed Left0000" x="2268" y="938" width="283" height="444" frameX="-8" frameY="0" frameWidth="291" frameHeight="444"/>
+	<SubTexture name="Riff Pissed Left0001" x="2551" y="938" width="281" height="442" frameX="-4" frameY="-2" frameWidth="291" frameHeight="444"/>
+	<SubTexture name="Riff Pissed Left0002" x="2832" y="938" width="280" height="441" frameX="0" frameY="-3" frameWidth="291" frameHeight="444"/>
+	<SubTexture name="Riff Pissed Left0003" x="3112" y="938" width="272" height="440" frameX="-3" frameY="-4" frameWidth="291" frameHeight="444"/>
+	<SubTexture name="Riff Pissed Left0004" x="3384" y="938" width="270" height="440" frameX="-5" frameY="-4" frameWidth="291" frameHeight="444"/>
+	<SubTexture name="Riff Pissed Left0005" x="3654" y="938" width="272" height="440" frameX="-3" frameY="-4" frameWidth="291" frameHeight="444"/>
+	<SubTexture name="Riff Pissed Left0006" x="0" y="1398" width="280" height="441" frameX="0" frameY="-3" frameWidth="291" frameHeight="444"/>
+	<SubTexture name="Riff Pissed Left0007" x="280" y="1398" width="281" height="442" frameX="-4" frameY="-2" frameWidth="291" frameHeight="444"/>
+	<SubTexture name="Riff Pissed Left0008" x="561" y="1398" width="283" height="444" frameX="-8" frameY="0" frameWidth="291" frameHeight="444"/>
+	<SubTexture name="Riff Pissed Left0009" x="844" y="1398" width="283" height="444" frameX="-8" frameY="0" frameWidth="291" frameHeight="444"/>
+	<SubTexture name="Riff Pissed Left0010" x="1127" y="1398" width="283" height="444" frameX="-8" frameY="0" frameWidth="291" frameHeight="444"/>
+	<SubTexture name="Riff Pissed Left0011" x="1410" y="1398" width="283" height="444" frameX="-8" frameY="0" frameWidth="291" frameHeight="444"/>
+	<SubTexture name="Riff Pissed Left0012" x="1693" y="1398" width="283" height="444" frameX="-8" frameY="0" frameWidth="291" frameHeight="444"/>
+	<SubTexture name="Riff Pissed Left0013" x="1976" y="1398" width="283" height="444" frameX="-8" frameY="0" frameWidth="291" frameHeight="444"/>
+	<SubTexture name="Riff Pissed Left0014" x="2259" y="1398" width="283" height="444" frameX="-8" frameY="0" frameWidth="291" frameHeight="444"/>
+	<SubTexture name="Riff Pissed Left0015" x="2542" y="1398" width="283" height="444" frameX="-8" frameY="0" frameWidth="291" frameHeight="444"/>
+	<SubTexture name="Riff Pissed Left0016" x="2825" y="1398" width="283" height="444" frameX="-8" frameY="0" frameWidth="291" frameHeight="444"/>
+	<SubTexture name="Riff Pissed Left0017" x="3108" y="1398" width="283" height="444" frameX="-8" frameY="0" frameWidth="291" frameHeight="444"/>
+	<SubTexture name="Riff Pissed Left0018" x="3391" y="1398" width="283" height="444" frameX="-8" frameY="0" frameWidth="291" frameHeight="444"/>
+	<SubTexture name="Riff Pissed Left0019" x="3674" y="1398" width="283" height="444" frameX="-8" frameY="0" frameWidth="291" frameHeight="444"/>
+	<SubTexture name="Riff Pissed Pre Attack0000" x="0" y="1842" width="324" height="460"/>
+	<SubTexture name="Riff Pissed Pre Attack0001" x="324" y="1842" width="324" height="460"/>
+	<SubTexture name="Riff Pissed Pre Attack0002" x="648" y="1842" width="324" height="446" frameX="0" frameY="-11" frameWidth="324" frameHeight="460"/>
+	<SubTexture name="Riff Pissed Pre Attack0003" x="972" y="1842" width="324" height="446" frameX="0" frameY="-11" frameWidth="324" frameHeight="460"/>
+	<SubTexture name="Riff Pissed Pre Attack0004" x="1296" y="1842" width="324" height="460"/>
+	<SubTexture name="Riff Pissed Pre Attack0005" x="1620" y="1842" width="324" height="460"/>
+	<SubTexture name="Riff Pissed Pre Attack0006" x="1944" y="1842" width="324" height="460"/>
+	<SubTexture name="Riff Pissed Pre Attack0007" x="2268" y="1842" width="324" height="460"/>
+	<SubTexture name="Riff Pissed Pre Attack0008" x="2592" y="1842" width="324" height="460"/>
+	<SubTexture name="Riff Pissed Pre Attack0009" x="2916" y="1842" width="324" height="460"/>
+	<SubTexture name="Riff Pissed Pre Attack0010" x="3240" y="1842" width="324" height="460"/>
+	<SubTexture name="Riff Pissed Pre Attack0011" x="3564" y="1842" width="324" height="460"/>
+	<SubTexture name="Riff Pissed Pre Attack0012" x="0" y="2302" width="324" height="460"/>
+	<SubTexture name="Riff Pissed Pre Attack0013" x="324" y="2302" width="324" height="460"/>
+	<SubTexture name="Riff Pissed Pre Attack0014" x="648" y="2302" width="324" height="460"/>
+	<SubTexture name="Riff Pissed Right0000" x="972" y="2302" width="345" height="461" frameX="0" frameY="0" frameWidth="365" frameHeight="461"/>
+	<SubTexture name="Riff Pissed Right0001" x="1317" y="2302" width="341" height="461" frameX="-7" frameY="0" frameWidth="365" frameHeight="461"/>
+	<SubTexture name="Riff Pissed Right0002" x="1658" y="2302" width="337" height="460" frameX="-15" frameY="-1" frameWidth="365" frameHeight="461"/>
+	<SubTexture name="Riff Pissed Right0003" x="1995" y="2302" width="330" height="460" frameX="-25" frameY="-1" frameWidth="365" frameHeight="461"/>
+	<SubTexture name="Riff Pissed Right0004" x="2325" y="2302" width="331" height="460" frameX="-34" frameY="-1" frameWidth="365" frameHeight="461"/>
+	<SubTexture name="Riff Pissed Right0005" x="2656" y="2302" width="330" height="460" frameX="-25" frameY="-1" frameWidth="365" frameHeight="461"/>
+	<SubTexture name="Riff Pissed Right0006" x="2986" y="2302" width="337" height="460" frameX="-15" frameY="-1" frameWidth="365" frameHeight="461"/>
+	<SubTexture name="Riff Pissed Right0007" x="3323" y="2302" width="341" height="461" frameX="-7" frameY="0" frameWidth="365" frameHeight="461"/>
+	<SubTexture name="Riff Pissed Right0008" x="3664" y="2302" width="345" height="461" frameX="0" frameY="0" frameWidth="365" frameHeight="461"/>
+	<SubTexture name="Riff Pissed Right0009" x="0" y="2763" width="345" height="461" frameX="0" frameY="0" frameWidth="365" frameHeight="461"/>
+	<SubTexture name="Riff Pissed Right0010" x="345" y="2763" width="345" height="461" frameX="0" frameY="0" frameWidth="365" frameHeight="461"/>
+	<SubTexture name="Riff Pissed Right0011" x="690" y="2763" width="345" height="461" frameX="0" frameY="0" frameWidth="365" frameHeight="461"/>
+	<SubTexture name="Riff Pissed Right0012" x="1035" y="2763" width="345" height="461" frameX="0" frameY="0" frameWidth="365" frameHeight="461"/>
+	<SubTexture name="Riff Pissed Right0013" x="1380" y="2763" width="345" height="461" frameX="0" frameY="0" frameWidth="365" frameHeight="461"/>
+	<SubTexture name="Riff Pissed Right0014" x="1725" y="2763" width="345" height="461" frameX="0" frameY="0" frameWidth="365" frameHeight="461"/>
+	<SubTexture name="Riff Pissed Up0000" x="2070" y="2763" width="267" height="444"/>
+	<SubTexture name="Riff Pissed Up0001" x="2337" y="2763" width="265" height="443" frameX="-2" frameY="-1" frameWidth="267" frameHeight="444"/>
+	<SubTexture name="Riff Pissed Up0002" x="2602" y="2763" width="264" height="442" frameX="-3" frameY="-2" frameWidth="267" frameHeight="444"/>
+	<SubTexture name="Riff Pissed Up0003" x="2866" y="2763" width="264" height="440" frameX="-3" frameY="-4" frameWidth="267" frameHeight="444"/>
+	<SubTexture name="Riff Pissed Up0004" x="3130" y="2763" width="264" height="439" frameX="-3" frameY="-5" frameWidth="267" frameHeight="444"/>
+	<SubTexture name="Riff Pissed Up0005" x="3394" y="2763" width="264" height="440" frameX="-3" frameY="-4" frameWidth="267" frameHeight="444"/>
+	<SubTexture name="Riff Pissed Up0006" x="3658" y="2763" width="264" height="442" frameX="-3" frameY="-2" frameWidth="267" frameHeight="444"/>
+	<SubTexture name="Riff Pissed Up0007" x="0" y="3224" width="265" height="443" frameX="-2" frameY="-1" frameWidth="267" frameHeight="444"/>
+	<SubTexture name="Riff Pissed Up0008" x="265" y="3224" width="267" height="444"/>
+	<SubTexture name="Riff Pissed Up0009" x="532" y="3224" width="267" height="444"/>
+	<SubTexture name="Riff Pissed Up0010" x="799" y="3224" width="267" height="444"/>
+	<SubTexture name="Riff Pissed Up0011" x="1066" y="3224" width="267" height="444"/>
+	<SubTexture name="Riff Pissed Up0012" x="1333" y="3224" width="267" height="444"/>
+	<SubTexture name="Riff Pissed Up0013" x="1600" y="3224" width="267" height="444"/>
+	<SubTexture name="Riff Pissed Up0014" x="1867" y="3224" width="267" height="444"/>
+</TextureAtlas>
