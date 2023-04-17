@@ -5,35 +5,40 @@
 			"text": "that was so fun let's keep go-",
 			"boxState": "angry",
 			"speed": 0.05,
-			"portrait": "riff-cheer"
+			"portrait": "riff-cheer",
+			"sound": "realization/1"
 		},
 		{
 			"expression": "pissed",
 			"text": "wait a minute you're the daughter of that no good rockstar daddy dearest who ruined my career and burned my old house down",
 			"boxState": "normal",
 			"speed": 0.05,
-			"portrait": "riff-confused"
+			"portrait": "riff-confused",
+			"sound": "realization/2"
 		},
 		{
 			"expression": "shocked",
 			"text": "see I told you that this wasn't a good idea",
 			"boxState": "angry",
 			"speed": 0.05,
-			"portrait": "gf"
+			"portrait": "gf",
+			"sound": "realization/3"
 		},
 		{
 			"expression": "rage",
 			"text": " I HEARD THAT YOU GET ONE CHANCE TO LEAVE GF OR ELSE I WILL HAVE TO CALL MY FRIEND AND I DON'T WANT TO DO THAT",
 			"boxState": "angry",
 			"speed": 0.05,
-			"portrait": "riff-mad"
+			"portrait": "riff-mad",
+		    "sound": "realization/4"
 		},
 		{
 			"expression": "talk",
 			"text": "Hey don't talk to my girlfriend like that you big air head",
 			"boxState": "angry",
 			"speed": 0.05,
-			"portrait": "bmald"
+			"portrait": "bmald",
+			"sound": "realization/5"
 		}
 	]
 }
