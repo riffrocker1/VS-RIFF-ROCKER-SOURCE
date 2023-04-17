@@ -1,5 +1,8 @@
 package;
 
+#if web
+import js.html.File;
+#end
 import flixel.FlxG;
 import flixel.FlxSprite;
 import flixel.addons.text.FlxTypeText;
@@ -18,6 +21,7 @@ import sys.FileSystem;
 import sys.io.File;
 #end
 import openfl.utils.Assets;
+import flixel.system.FlxSound;
 
 using StringTools;
 
@@ -449,14 +453,23 @@ class DialogueBoxPsych extends FlxSpriteGroup
 	var lastBoxType:String = '';
 	function startNextDialog():Void
 	{
+		FlxG.sound.destroy();
+		FlxG.sound.play(Paths.sound(closeSound));
+
 		var curDialogue:DialogueLine = null;
 		do {
 			curDialogue = dialogueList.dialogue[currentText];
 		} while(curDialogue == null);
 
+		if(curDialogue.sound == null) curDialogue.sound = '';
 		if(curDialogue.text == null || curDialogue.text.length < 1) curDialogue.text = ' ';
 		if(curDialogue.boxState == null) curDialogue.boxState = 'normal';
 		if(curDialogue.speed == null || Math.isNaN(curDialogue.speed)) curDialogue.speed = 0.05;
+
+		if(curDialogue.sound != ' '){
+			trace('dialogueSounds' + curDialogue.sound);
+			FlxG.sound.play(Paths.returnSound('dialogueSounds',curDialogue.sound));
+		}
 
 		var animName:String = curDialogue.boxState;
 		var boxType:String = textBoxTypes[0];
