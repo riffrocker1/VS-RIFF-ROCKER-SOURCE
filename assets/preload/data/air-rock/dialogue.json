@@ -5,161 +5,177 @@
 			"text": "Excuse me, would you stop the racket?",
 			"boxState": "normal",
 			"portrait": "placeholder",
-			"speed": 0.05
+			"speed": 0.05,
+			"sound": "air_rock/1"
 		},
 		{
 			"expression": "rage",
 			"text": "Aw come on just shut up let me play music and record without you, telling me what to do!",
 			"boxState": "angry",
 			"portrait": "riff-mad",
-			"speed": 0.05
+			"speed": 0.05,
+			"sound": "air_rock/2"
+
 		},
 		{
 			"expression": "shocked",
 			"text": "A Rocker recording his music?",
 			"boxState": "angry",
 			"portrait": "bf",
-			"speed": 0.05
+			"speed": 0.05,
+			"sound": "air_rock/3"
 		},
 		{
 			"expression": "confused",
 			"text": " I don't think we should engage, we don't know what Rocker this is, and he's giving me horrible flashbacks...",
 			"boxState": "normal",
 			"portrait": "gf",
-			"speed": 0.05
+			"speed": 0.05,
+			"sound": "air_rock/4"
 		},
 		{
 			"expression": "shocked",
 			"text": "of when we went to whitties! That bomb was so scary.",
 			"boxState": "angry",
 			"portrait": "gf",
-			"speed": 0.05
+			"speed": 0.05,
+			"sound": "air_rock/5"
 		},
 		{
 			"expression": "talk",
 			"text": "Who are you? Want me to take you in and out of the cold for some nice tea?",
 			"boxState": "normal",
 			"portrait": "riff-confused",
-			"speed": 0.05
+			"speed": 0.05,
+			"sound": "air_rock/6"
 		},
 		{
 			"expression": "talk",
 			"text": "of course my friend!",
 			"boxState": "normal",
 			"portrait": "bf",
-			"speed": 0.05
+			"speed": 0.05,
+			"sound": "air_rock/7"
 		},
 		{
 			"expression": "shocked",
 			"text": "Are you sure about this boyfriend?",
 			"boxState": "angry",
 			"portrait": "gf",
-			"speed": 0.05
+			"speed": 0.05,
+			"sound": "air_rock/8"
 		},
 		{
 			"expression": "excited",
 			"text": "YEAH!",
 			"boxState": "angry",
 			"portrait": "bf",
-			"speed": 0.05
+			"speed": 0.05,
+			"sound": "air_rock/9"
 		},
 		{
 			"expression": "confused",
 			"text": "Okay then if u say so",
 			"boxState": "normal",
 			"portrait": "gf",
-			"speed": 0.05
-		},
-		{
-			"expression": "shocked",
-			"text": "Don't be scared i wont hurt you little ones",
-			"boxState": "normal",
-			"portrait": "riff-shock",
-			"speed": 0.05
+			"speed": 0.05,
+			"sound": "air_rock/10"
 		},
 		{
 			"expression": "confused",
 			"text": "so..... You like playing your guitar, right?",
 			"boxState": "normal",
 			"portrait": "gf",
-			"speed": 0.05
+			"speed": 0.05,
+			"sound": "air_rock/11"
 		},
 		{
 			"expression": "excited",
 			"text": "Heck yes!",
 			"boxState": "angry",
 			"portrait": "riff-cheer",
-			"speed": 0.05
+			"speed": 0.05,
+			"sound": "air_rock/12"
 		},
 		{
 			"expression": "talk",
 			"text": "So tell me about you boyfriend , what do you like to do?",
 			"boxState": "normal",
 			"portrait": "riff",
-			"speed": 0.05
+			"speed": 0.05,
+			"sound": "air_rock/13"
 		},
 		{
 			"expression": "pissed",
 			"text": "Rapping!",
 			"boxState": "normal",
 			"portrait": "bf",
-			"speed": 0.05
+			"speed": 0.05,
+			"sound": "air_rock/14"
 		},
 		{
 			"expression": "confused",
 			"text": "Hey boyfriend.. Can I tell you something in private?",
 			"boxState": "normal",
 			"portrait": "gf",
-			"speed": 0.05
+			"speed": 0.05,
+			"sound": "air_rock/15"
 		},
 		{
 			"expression": "talk",
 			"text": "ok lets go-",
 			"boxState": "normal",
 			"portrait": "bf",
-			"speed": 0.05
+			"speed": 0.05,
+			"sound": "air_rock/16"
 		},
 		{
 			"expression": "talk",
 			"text": "where are you going so soon I wanted to offer you to join my band!",
 			"boxState": "normal",
 			"portrait": "riff-confused",
-			"speed": 0.05
+			"speed": 0.05,
+			"sound": "air_rock/17"
 		},
 		{
 			"expression": "talk",
 			"text": "Sure i will",
 			"boxState": "normal",
 			"portrait": "bf",
-			"speed": 0.05
+			"speed": 0.05,
+			"sound": "air_rock/18"
 		},
 		{
 			"expression": "confused",
 			"text": "sigh",
 			"boxState": "normal",
 			"portrait": "gf",
-			"speed": 0.05
+			"speed": 0.05,
+			"sound": "air_rock/19"
 		},
 		{
 			"expression": "pissed",
 			"text": "What songs do you have?",
 			"boxState": "normal",
 			"portrait": "bf",
-			"speed": 0.05
+			"speed": 0.05,
+			"sound": "air_rock/20"
 		},
 		{
 			"expression": "talk",
 			"text": "I'll show you",
 			"boxState": "normal",
 			"portrait": "riff-shock",
-			"speed": 0.05
+			"speed": 0.05,
+			"sound": "air_rock/21"
 		},
 		{
 			"expression": "excited",
 			"text": "get ready this is a banger!!",
 			"boxState": "angry",
 			"portrait": "riff-cheer",
-			"speed": 0.05
+			"speed": 0.05,
+			"sound": "air_rock/22"
 		}
 	]
 }
