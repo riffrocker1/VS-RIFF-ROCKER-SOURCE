@@ -2,58 +2,58 @@
 	"animations": [
 		{
 			"offsets": [
-				-60,
-				-250
+				360,
+				370
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "Riff Idle"
+			"loop": false,
+			"name": "riff idle dance"
 		},
 		{
 			"offsets": [
-				-59,
-				-250
+				527,
+				377
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Riff Left"
+			"loop": false,
+			"name": "riff left"
 		},
 		{
 			"offsets": [
-				-60,
-				-250
+				366,
+				406
 			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
 			"indices": [],
-			"name": "Riff Down"
-		},
-		{
-			"offsets": [
-				-56,
-				-250
-			],
-			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Riff Up"
+			"loop": false,
+			"name": "riff up"
 		},
 		{
 			"offsets": [
-				-60,
-				-253
+				315,
+				324
 			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
 			"loop": false,
+			"name": "riff down"
+		},
+		{
+			"offsets": [
+				318,
+				364
+			],
+			"indices": [],
 			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Riff Right"
+			"loop": false,
+			"name": "riff right"
 		}
 	],
 	"no_antialiasing": false,
@@ -74,5 +74,5 @@
 		180
 	],
 	"sing_duration": 6.1,
-	"scale": 1.1
+	"scale": 0.4
 }

@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-238,
+				0
+			],
+			"idle_offsets": [
+				-244,
+				-2
+			],
+			"loop_name": "neutral talk ",
+			"idle_name": "neutral talk instance 10009"
+		},
+		{
+			"loop_offsets": [
+				-155,
+				0
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				-146,
+				-8
+			],
+			"loop_name": "confident talk loop",
+			"idle_name": "confident talk loop instance 10009"
+		},
+		{
+			"loop_offsets": [
+				-200,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				-220,
+				0
+			],
+			"loop_name": "duh talk loop",
+			"idle_name": "duh talk loop instance 10009"
+		},
+		{
+			"loop_offsets": [
+				-362,
+				-13
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-369,
+				-11
+			],
+			"loop_name": "scared instance ",
+			"idle_name": "scared instance "
+		},
+		{
+			"idle_offsets": [
+				-256,
+				-11
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				-253,
+				-10
+			],
+			"idle_name": "uncomfortable talk loop instance 10009",
+			"loop_name": "uncomfortable talk loop"
+		}
+	],
+	"image": "HeV BF dialogue"
+}
