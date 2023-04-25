@@ -1,76 +1,129 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="Riff_New_Assets.png">
-	<!-- Created with Adobe Animate version 22.0.5.191 -->
+<TextureAtlas imagePath="Riff Rocker.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="Riff Down0000" x="0" y="0" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Down0001" x="0" y="0" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Down0002" x="324" y="0" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Down0003" x="324" y="0" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Down0004" x="648" y="0" width="344" height="460"/>
-	<SubTexture name="Riff Down0005" x="648" y="0" width="344" height="460"/>
-	<SubTexture name="Riff Down0006" x="992" y="0" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Down0007" x="992" y="0" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Down0008" x="992" y="0" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Down0009" x="992" y="0" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Down0010" x="992" y="0" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Idle0000" x="1316" y="0" width="324" height="460"/>
-	<SubTexture name="Riff Idle0001" x="1316" y="0" width="324" height="460"/>
-	<SubTexture name="Riff Idle0002" x="1640" y="0" width="324" height="446" frameX="0" frameY="-11" frameWidth="324" frameHeight="460"/>
-	<SubTexture name="Riff Idle0003" x="1640" y="0" width="324" height="446" frameX="0" frameY="-11" frameWidth="324" frameHeight="460"/>
-	<SubTexture name="Riff Idle0004" x="0" y="460" width="324" height="460"/>
-	<SubTexture name="Riff Idle0005" x="0" y="460" width="324" height="460"/>
-	<SubTexture name="Riff Idle0006" x="0" y="460" width="324" height="460"/>
-	<SubTexture name="Riff Idle0007" x="0" y="460" width="324" height="460"/>
-	<SubTexture name="Riff Idle0008" x="0" y="460" width="324" height="460"/>
-	<SubTexture name="Riff Idle0009" x="0" y="460" width="324" height="460"/>
-	<SubTexture name="Riff Idle0010" x="0" y="460" width="324" height="460"/>
-	<SubTexture name="Riff Idle0011" x="0" y="460" width="324" height="460"/>
-	<SubTexture name="Riff Idle0012" x="0" y="460" width="324" height="460"/>
-	<SubTexture name="Riff Idle0013" x="0" y="460" width="324" height="460"/>
-	<SubTexture name="Riff Idle0014" x="0" y="460" width="324" height="460"/>
-	<SubTexture name="Riff Left0000" x="324" y="460" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Left0001" x="324" y="460" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Left0002" x="648" y="460" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Left0003" x="648" y="460" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Left0004" x="972" y="460" width="344" height="460"/>
-	<SubTexture name="Riff Left0005" x="972" y="460" width="344" height="460"/>
-	<SubTexture name="Riff Left0006" x="1316" y="460" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Left0007" x="1316" y="460" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Left0008" x="1316" y="460" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Left0009" x="1316" y="460" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Left0010" x="1316" y="460" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Left0011" x="1316" y="460" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Left0012" x="1316" y="460" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Left0013" x="1316" y="460" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Left0014" x="1316" y="460" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Right0000" x="1640" y="460" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Right0001" x="1640" y="460" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Right0002" x="0" y="920" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Right0003" x="0" y="920" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Right0004" x="324" y="920" width="344" height="460"/>
-	<SubTexture name="Riff Right0005" x="324" y="920" width="344" height="460"/>
-	<SubTexture name="Riff Right0006" x="668" y="920" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Right0007" x="668" y="920" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Right0008" x="668" y="920" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Right0009" x="668" y="920" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Right0010" x="668" y="920" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Right0011" x="668" y="920" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Right0012" x="668" y="920" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Right0013" x="668" y="920" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Right0014" x="668" y="920" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Up0000" x="992" y="920" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Up0001" x="992" y="920" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Up0002" x="1316" y="920" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Up0003" x="1316" y="920" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Up0004" x="1640" y="920" width="344" height="460"/>
-	<SubTexture name="Riff Up0005" x="1640" y="920" width="344" height="460"/>
-	<SubTexture name="Riff Up0006" x="0" y="1380" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Up0007" x="0" y="1380" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Up0008" x="0" y="1380" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Up0009" x="0" y="1380" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Up0010" x="0" y="1380" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Up0011" x="0" y="1380" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Up0012" x="0" y="1380" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Up0013" x="0" y="1380" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
-	<SubTexture name="Riff Up0014" x="0" y="1380" width="324" height="460" frameX="0" frameY="0" frameWidth="344" frameHeight="460"/>
+	<SubTexture name="riff down0000" x="0" y="0" width="1224" height="1458" frameX="0" frameY="-13" frameWidth="1224" frameHeight="1471"/>
+	<SubTexture name="riff down0001" x="0" y="0" width="1224" height="1458" frameX="0" frameY="-13" frameWidth="1224" frameHeight="1471"/>
+	<SubTexture name="riff down0002" x="1224" y="0" width="1205" height="1467" frameX="-6" frameY="-3" frameWidth="1224" frameHeight="1471"/>
+	<SubTexture name="riff down0003" x="1224" y="0" width="1205" height="1467" frameX="-6" frameY="-3" frameWidth="1224" frameHeight="1471"/>
+	<SubTexture name="riff down0004" x="2429" y="0" width="1203" height="1470" frameX="-6" frameY="0" frameWidth="1224" frameHeight="1471"/>
+	<SubTexture name="riff down0005" x="2429" y="0" width="1203" height="1470" frameX="-6" frameY="0" frameWidth="1224" frameHeight="1471"/>
+	<SubTexture name="riff down0006" x="3632" y="0" width="1203" height="1470" frameX="-6" frameY="0" frameWidth="1224" frameHeight="1471"/>
+	<SubTexture name="riff down0007" x="3632" y="0" width="1203" height="1470" frameX="-6" frameY="0" frameWidth="1224" frameHeight="1471"/>
+	<SubTexture name="riff down0008" x="3632" y="0" width="1203" height="1470" frameX="-6" frameY="0" frameWidth="1224" frameHeight="1471"/>
+	<SubTexture name="riff down0009" x="3632" y="0" width="1203" height="1470" frameX="-6" frameY="0" frameWidth="1224" frameHeight="1471"/>
+	<SubTexture name="riff down0010" x="3632" y="0" width="1203" height="1470" frameX="-6" frameY="0" frameWidth="1224" frameHeight="1471"/>
+	<SubTexture name="riff down0011" x="3632" y="0" width="1203" height="1470" frameX="-6" frameY="0" frameWidth="1224" frameHeight="1471"/>
+	<SubTexture name="riff down0012" x="3632" y="0" width="1203" height="1470" frameX="-6" frameY="0" frameWidth="1224" frameHeight="1471"/>
+	<SubTexture name="riff down0013" x="3632" y="0" width="1203" height="1470" frameX="-6" frameY="0" frameWidth="1224" frameHeight="1471"/>
+	<SubTexture name="riff down0014" x="3632" y="0" width="1203" height="1470" frameX="-6" frameY="0" frameWidth="1224" frameHeight="1471"/>
+	<SubTexture name="riff down0015" x="3632" y="0" width="1203" height="1470" frameX="-6" frameY="0" frameWidth="1224" frameHeight="1471"/>
+	<SubTexture name="riff down0016" x="3632" y="0" width="1203" height="1470" frameX="-6" frameY="0" frameWidth="1224" frameHeight="1471"/>
+	<SubTexture name="riff down0017" x="3632" y="0" width="1203" height="1470" frameX="-6" frameY="0" frameWidth="1224" frameHeight="1471"/>
+	<SubTexture name="riff down0018" x="3632" y="0" width="1203" height="1470" frameX="-6" frameY="0" frameWidth="1224" frameHeight="1471"/>
+	<SubTexture name="riff down0019" x="3632" y="0" width="1203" height="1470" frameX="-6" frameY="0" frameWidth="1224" frameHeight="1471"/>
+	<SubTexture name="riff down0020" x="3632" y="0" width="1203" height="1470" frameX="-6" frameY="0" frameWidth="1224" frameHeight="1471"/>
+	<SubTexture name="riff down0021" x="3632" y="0" width="1203" height="1470" frameX="-6" frameY="0" frameWidth="1224" frameHeight="1471"/>
+	<SubTexture name="riff down0022" x="3632" y="0" width="1203" height="1470" frameX="-6" frameY="0" frameWidth="1224" frameHeight="1471"/>
+	<SubTexture name="riff down0023" x="3632" y="0" width="1203" height="1470" frameX="-6" frameY="0" frameWidth="1224" frameHeight="1471"/>
+	<SubTexture name="riff down0024" x="3632" y="0" width="1203" height="1470" frameX="-6" frameY="0" frameWidth="1224" frameHeight="1471"/>
+	<SubTexture name="riff down0025" x="3632" y="0" width="1203" height="1470" frameX="-6" frameY="0" frameWidth="1224" frameHeight="1471"/>
+	<SubTexture name="riff down0026" x="3632" y="0" width="1203" height="1470" frameX="-6" frameY="0" frameWidth="1224" frameHeight="1471"/>
+	<SubTexture name="riff down0027" x="3632" y="0" width="1203" height="1470" frameX="-6" frameY="0" frameWidth="1224" frameHeight="1471"/>
+	<SubTexture name="riff down0028" x="3632" y="0" width="1203" height="1470" frameX="-6" frameY="0" frameWidth="1224" frameHeight="1471"/>
+	<SubTexture name="riff down0029" x="3632" y="0" width="1203" height="1470" frameX="-6" frameY="0" frameWidth="1224" frameHeight="1471"/>
+	<SubTexture name="riff down0030" x="3632" y="0" width="1203" height="1470" frameX="-6" frameY="0" frameWidth="1224" frameHeight="1471"/>
+	<SubTexture name="riff idle dance0000" x="4835" y="0" width="1103" height="1572" frameX="-3" frameY="-11" frameWidth="1113" frameHeight="1583"/>
+	<SubTexture name="riff idle dance0001" x="4835" y="0" width="1103" height="1572" frameX="-3" frameY="-11" frameWidth="1113" frameHeight="1583"/>
+	<SubTexture name="riff idle dance0002" x="5938" y="0" width="1113" height="1579" frameX="0" frameY="-4" frameWidth="1113" frameHeight="1583"/>
+	<SubTexture name="riff idle dance0003" x="5938" y="0" width="1113" height="1579" frameX="0" frameY="-4" frameWidth="1113" frameHeight="1583"/>
+	<SubTexture name="riff idle dance0004" x="7051" y="0" width="1078" height="1583" frameX="-6" frameY="0" frameWidth="1113" frameHeight="1583"/>
+	<SubTexture name="riff idle dance0005" x="7051" y="0" width="1078" height="1583" frameX="-6" frameY="0" frameWidth="1113" frameHeight="1583"/>
+	<SubTexture name="riff idle dance0006" x="0" y="1583" width="1035" height="1577" frameX="-17" frameY="-6" frameWidth="1113" frameHeight="1583"/>
+	<SubTexture name="riff idle dance0007" x="0" y="1583" width="1035" height="1577" frameX="-17" frameY="-6" frameWidth="1113" frameHeight="1583"/>
+	<SubTexture name="riff idle dance0008" x="1035" y="1583" width="1035" height="1574" frameX="-17" frameY="-9" frameWidth="1113" frameHeight="1583"/>
+	<SubTexture name="riff idle dance0009" x="1035" y="1583" width="1035" height="1574" frameX="-17" frameY="-9" frameWidth="1113" frameHeight="1583"/>
+	<SubTexture name="riff idle dance0010" x="1035" y="1583" width="1035" height="1574" frameX="-17" frameY="-9" frameWidth="1113" frameHeight="1583"/>
+	<SubTexture name="riff idle dance0011" x="1035" y="1583" width="1035" height="1574" frameX="-17" frameY="-9" frameWidth="1113" frameHeight="1583"/>
+	<SubTexture name="riff idle dance0012" x="1035" y="1583" width="1035" height="1574" frameX="-17" frameY="-9" frameWidth="1113" frameHeight="1583"/>
+	<SubTexture name="riff idle dance0013" x="1035" y="1583" width="1035" height="1574" frameX="-17" frameY="-9" frameWidth="1113" frameHeight="1583"/>
+	<SubTexture name="riff idle dance0014" x="1035" y="1583" width="1035" height="1574" frameX="-17" frameY="-9" frameWidth="1113" frameHeight="1583"/>
+	<SubTexture name="riff idle dance0015" x="1035" y="1583" width="1035" height="1574" frameX="-17" frameY="-9" frameWidth="1113" frameHeight="1583"/>
+	<SubTexture name="riff idle dance0016" x="1035" y="1583" width="1035" height="1574" frameX="-17" frameY="-9" frameWidth="1113" frameHeight="1583"/>
+	<SubTexture name="riff idle dance0017" x="1035" y="1583" width="1035" height="1574" frameX="-17" frameY="-9" frameWidth="1113" frameHeight="1583"/>
+	<SubTexture name="riff idle dance0018" x="1035" y="1583" width="1035" height="1574" frameX="-17" frameY="-9" frameWidth="1113" frameHeight="1583"/>
+	<SubTexture name="riff idle dance0019" x="1035" y="1583" width="1035" height="1574" frameX="-17" frameY="-9" frameWidth="1113" frameHeight="1583"/>
+	<SubTexture name="riff idle dance0020" x="1035" y="1583" width="1035" height="1574" frameX="-17" frameY="-9" frameWidth="1113" frameHeight="1583"/>
+	<SubTexture name="riff idle dance0021" x="1035" y="1583" width="1035" height="1574" frameX="-17" frameY="-9" frameWidth="1113" frameHeight="1583"/>
+	<SubTexture name="riff idle dance0022" x="1035" y="1583" width="1035" height="1574" frameX="-17" frameY="-9" frameWidth="1113" frameHeight="1583"/>
+	<SubTexture name="riff idle dance0023" x="1035" y="1583" width="1035" height="1574" frameX="-17" frameY="-9" frameWidth="1113" frameHeight="1583"/>
+	<SubTexture name="riff left0000" x="2070" y="1583" width="1324" height="1598" frameX="0" frameY="0" frameWidth="1331" frameHeight="1598"/>
+	<SubTexture name="riff left0001" x="2070" y="1583" width="1324" height="1598" frameX="0" frameY="0" frameWidth="1331" frameHeight="1598"/>
+	<SubTexture name="riff left0002" x="3394" y="1583" width="1282" height="1596" frameX="-41" frameY="-2" frameWidth="1331" frameHeight="1598"/>
+	<SubTexture name="riff left0003" x="3394" y="1583" width="1282" height="1596" frameX="-41" frameY="-2" frameWidth="1331" frameHeight="1598"/>
+	<SubTexture name="riff left0004" x="4676" y="1583" width="1280" height="1595" frameX="-51" frameY="-3" frameWidth="1331" frameHeight="1598"/>
+	<SubTexture name="riff left0005" x="4676" y="1583" width="1280" height="1595" frameX="-51" frameY="-3" frameWidth="1331" frameHeight="1598"/>
+	<SubTexture name="riff left0006" x="4676" y="1583" width="1280" height="1595" frameX="-51" frameY="-3" frameWidth="1331" frameHeight="1598"/>
+	<SubTexture name="riff left0007" x="4676" y="1583" width="1280" height="1595" frameX="-51" frameY="-3" frameWidth="1331" frameHeight="1598"/>
+	<SubTexture name="riff left0008" x="4676" y="1583" width="1280" height="1595" frameX="-51" frameY="-3" frameWidth="1331" frameHeight="1598"/>
+	<SubTexture name="riff left0009" x="4676" y="1583" width="1280" height="1595" frameX="-51" frameY="-3" frameWidth="1331" frameHeight="1598"/>
+	<SubTexture name="riff left0010" x="4676" y="1583" width="1280" height="1595" frameX="-51" frameY="-3" frameWidth="1331" frameHeight="1598"/>
+	<SubTexture name="riff left0011" x="4676" y="1583" width="1280" height="1595" frameX="-51" frameY="-3" frameWidth="1331" frameHeight="1598"/>
+	<SubTexture name="riff left0012" x="4676" y="1583" width="1280" height="1595" frameX="-51" frameY="-3" frameWidth="1331" frameHeight="1598"/>
+	<SubTexture name="riff left0013" x="4676" y="1583" width="1280" height="1595" frameX="-51" frameY="-3" frameWidth="1331" frameHeight="1598"/>
+	<SubTexture name="riff left0014" x="4676" y="1583" width="1280" height="1595" frameX="-51" frameY="-3" frameWidth="1331" frameHeight="1598"/>
+	<SubTexture name="riff left0015" x="4676" y="1583" width="1280" height="1595" frameX="-51" frameY="-3" frameWidth="1331" frameHeight="1598"/>
+	<SubTexture name="riff left0016" x="4676" y="1583" width="1280" height="1595" frameX="-51" frameY="-3" frameWidth="1331" frameHeight="1598"/>
+	<SubTexture name="riff left0017" x="4676" y="1583" width="1280" height="1595" frameX="-51" frameY="-3" frameWidth="1331" frameHeight="1598"/>
+	<SubTexture name="riff left0018" x="4676" y="1583" width="1280" height="1595" frameX="-51" frameY="-3" frameWidth="1331" frameHeight="1598"/>
+	<SubTexture name="riff left0019" x="4676" y="1583" width="1280" height="1595" frameX="-51" frameY="-3" frameWidth="1331" frameHeight="1598"/>
+	<SubTexture name="riff left0020" x="4676" y="1583" width="1280" height="1595" frameX="-51" frameY="-3" frameWidth="1331" frameHeight="1598"/>
+	<SubTexture name="riff left0021" x="4676" y="1583" width="1280" height="1595" frameX="-51" frameY="-3" frameWidth="1331" frameHeight="1598"/>
+	<SubTexture name="riff left0022" x="4676" y="1583" width="1280" height="1595" frameX="-51" frameY="-3" frameWidth="1331" frameHeight="1598"/>
+	<SubTexture name="riff left0023" x="4676" y="1583" width="1280" height="1595" frameX="-51" frameY="-3" frameWidth="1331" frameHeight="1598"/>
+	<SubTexture name="riff right0000" x="5956" y="1583" width="1151" height="1569" frameX="-9" frameY="0" frameWidth="1160" frameHeight="1569"/>
+	<SubTexture name="riff right0001" x="5956" y="1583" width="1151" height="1569" frameX="-9" frameY="0" frameWidth="1160" frameHeight="1569"/>
+	<SubTexture name="riff right0002" x="0" y="3181" width="1132" height="1550" frameX="-8" frameY="-19" frameWidth="1160" frameHeight="1569"/>
+	<SubTexture name="riff right0003" x="0" y="3181" width="1132" height="1550" frameX="-8" frameY="-19" frameWidth="1160" frameHeight="1569"/>
+	<SubTexture name="riff right0004" x="1132" y="3181" width="1133" height="1553" frameX="0" frameY="-16" frameWidth="1160" frameHeight="1569"/>
+	<SubTexture name="riff right0005" x="1132" y="3181" width="1133" height="1553" frameX="0" frameY="-16" frameWidth="1160" frameHeight="1569"/>
+	<SubTexture name="riff right0006" x="1132" y="3181" width="1133" height="1553" frameX="0" frameY="-16" frameWidth="1160" frameHeight="1569"/>
+	<SubTexture name="riff right0007" x="1132" y="3181" width="1133" height="1553" frameX="0" frameY="-16" frameWidth="1160" frameHeight="1569"/>
+	<SubTexture name="riff right0008" x="1132" y="3181" width="1133" height="1553" frameX="0" frameY="-16" frameWidth="1160" frameHeight="1569"/>
+	<SubTexture name="riff right0009" x="1132" y="3181" width="1133" height="1553" frameX="0" frameY="-16" frameWidth="1160" frameHeight="1569"/>
+	<SubTexture name="riff right0010" x="1132" y="3181" width="1133" height="1553" frameX="0" frameY="-16" frameWidth="1160" frameHeight="1569"/>
+	<SubTexture name="riff right0011" x="1132" y="3181" width="1133" height="1553" frameX="0" frameY="-16" frameWidth="1160" frameHeight="1569"/>
+	<SubTexture name="riff right0012" x="1132" y="3181" width="1133" height="1553" frameX="0" frameY="-16" frameWidth="1160" frameHeight="1569"/>
+	<SubTexture name="riff right0013" x="1132" y="3181" width="1133" height="1553" frameX="0" frameY="-16" frameWidth="1160" frameHeight="1569"/>
+	<SubTexture name="riff right0014" x="1132" y="3181" width="1133" height="1553" frameX="0" frameY="-16" frameWidth="1160" frameHeight="1569"/>
+	<SubTexture name="riff right0015" x="1132" y="3181" width="1133" height="1553" frameX="0" frameY="-16" frameWidth="1160" frameHeight="1569"/>
+	<SubTexture name="riff right0016" x="1132" y="3181" width="1133" height="1553" frameX="0" frameY="-16" frameWidth="1160" frameHeight="1569"/>
+	<SubTexture name="riff right0017" x="1132" y="3181" width="1133" height="1553" frameX="0" frameY="-16" frameWidth="1160" frameHeight="1569"/>
+	<SubTexture name="riff right0018" x="1132" y="3181" width="1133" height="1553" frameX="0" frameY="-16" frameWidth="1160" frameHeight="1569"/>
+	<SubTexture name="riff right0019" x="1132" y="3181" width="1133" height="1553" frameX="0" frameY="-16" frameWidth="1160" frameHeight="1569"/>
+	<SubTexture name="riff right0020" x="1132" y="3181" width="1133" height="1553" frameX="0" frameY="-16" frameWidth="1160" frameHeight="1569"/>
+	<SubTexture name="riff up0000" x="2265" y="3181" width="1167" height="1664"/>
+	<SubTexture name="riff up0001" x="2265" y="3181" width="1167" height="1664"/>
+	<SubTexture name="riff up0002" x="3432" y="3181" width="1159" height="1625" frameX="-8" frameY="-39" frameWidth="1167" frameHeight="1664"/>
+	<SubTexture name="riff up0003" x="3432" y="3181" width="1159" height="1625" frameX="-8" frameY="-39" frameWidth="1167" frameHeight="1664"/>
+	<SubTexture name="riff up0004" x="4591" y="3181" width="1159" height="1619" frameX="-8" frameY="-45" frameWidth="1167" frameHeight="1664"/>
+	<SubTexture name="riff up0005" x="4591" y="3181" width="1159" height="1619" frameX="-8" frameY="-45" frameWidth="1167" frameHeight="1664"/>
+	<SubTexture name="riff up0006" x="4591" y="3181" width="1159" height="1619" frameX="-8" frameY="-45" frameWidth="1167" frameHeight="1664"/>
+	<SubTexture name="riff up0007" x="4591" y="3181" width="1159" height="1619" frameX="-8" frameY="-45" frameWidth="1167" frameHeight="1664"/>
+	<SubTexture name="riff up0008" x="4591" y="3181" width="1159" height="1619" frameX="-8" frameY="-45" frameWidth="1167" frameHeight="1664"/>
+	<SubTexture name="riff up0009" x="4591" y="3181" width="1159" height="1619" frameX="-8" frameY="-45" frameWidth="1167" frameHeight="1664"/>
+	<SubTexture name="riff up0010" x="4591" y="3181" width="1159" height="1619" frameX="-8" frameY="-45" frameWidth="1167" frameHeight="1664"/>
+	<SubTexture name="riff up0011" x="4591" y="3181" width="1159" height="1619" frameX="-8" frameY="-45" frameWidth="1167" frameHeight="1664"/>
+	<SubTexture name="riff up0012" x="4591" y="3181" width="1159" height="1619" frameX="-8" frameY="-45" frameWidth="1167" frameHeight="1664"/>
+	<SubTexture name="riff up0013" x="4591" y="3181" width="1159" height="1619" frameX="-8" frameY="-45" frameWidth="1167" frameHeight="1664"/>
+	<SubTexture name="riff up0014" x="4591" y="3181" width="1159" height="1619" frameX="-8" frameY="-45" frameWidth="1167" frameHeight="1664"/>
+	<SubTexture name="riff up0015" x="4591" y="3181" width="1159" height="1619" frameX="-8" frameY="-45" frameWidth="1167" frameHeight="1664"/>
+	<SubTexture name="riff up0016" x="4591" y="3181" width="1159" height="1619" frameX="-8" frameY="-45" frameWidth="1167" frameHeight="1664"/>
+	<SubTexture name="riff up0017" x="4591" y="3181" width="1159" height="1619" frameX="-8" frameY="-45" frameWidth="1167" frameHeight="1664"/>
+	<SubTexture name="riff up0018" x="4591" y="3181" width="1159" height="1619" frameX="-8" frameY="-45" frameWidth="1167" frameHeight="1664"/>
+	<SubTexture name="riff up0019" x="4591" y="3181" width="1159" height="1619" frameX="-8" frameY="-45" frameWidth="1167" frameHeight="1664"/>
+	<SubTexture name="riff up0020" x="4591" y="3181" width="1159" height="1619" frameX="-8" frameY="-45" frameWidth="1167" frameHeight="1664"/>
+	<SubTexture name="riff up0021" x="4591" y="3181" width="1159" height="1619" frameX="-8" frameY="-45" frameWidth="1167" frameHeight="1664"/>
+	<SubTexture name="riff up0022" x="4591" y="3181" width="1159" height="1619" frameX="-8" frameY="-45" frameWidth="1167" frameHeight="1664"/>
+	<SubTexture name="riff up0023" x="4591" y="3181" width="1159" height="1619" frameX="-8" frameY="-45" frameWidth="1167" frameHeight="1664"/>
 </TextureAtlas>
