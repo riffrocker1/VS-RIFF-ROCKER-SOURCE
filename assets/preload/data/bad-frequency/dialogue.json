@@ -1,0 +1,128 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "riff-confused",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wait a minute I recognize some parts of that song",
+			"sound": ""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "they were from when I rap battled bf and practicing for just in case something happens in the future how did you know that?! ",
+			"sound": ""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "riff-mad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "uhhhhhhh coincidence",
+			"sound": ""
+
+		},
+		{
+			"speed": 0.05,
+			"portrait": "riff-confused",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh ok.",
+			"sound": ""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "placeholder",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh hi knalli is this your cute little cat mezbet you've been telling me all about",
+			"sound": ""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "riff-mad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "why yes yes he is",
+			"sound": ""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "placeholder",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "dude for the 614th time, i'm Not his Pet Cat, im his Assistant!",
+			"sound": ""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "placeholder",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so what brings you here to my house",
+			"sound": ""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "I was just looking around for a house in the neighborhood and decided to pop in and wondered if you wanted to go out and get ice cream",
+			"sound": ""
+		},
+		{
+            "speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "I was just looking around for a house in the neighborhood and decided to pop in and wondered if you wanted to go out and get ice cream",
+			"sound": ""
+			
+		},
+    {
+
+        "speed": 0.05,
+        "portrait": "bf",
+        "boxState": "normal",
+        "expression": "pissed",
+        "text": "I thought we were on a sec",
+        "sound": ""
+
+
+
+
+    },
+    {
+        "speed": 0.05,
+        "portrait": "bf",
+        "boxState": "normal",
+        "expression": "pissed",
+        "text": "shut up",
+        "sound": ""
+
+
+
+
+        
+    },
+    {
+        "speed": 0.05,
+        "portrait": "bf",
+        "boxState": "normal",
+        "expression": "pissed",
+        "text": "boss we're losing connection abort mission abort mission",
+        "sound": ""
+    },
+    {
+        "speed": 0.05,
+        "portrait": "bf",
+        "boxState": "normal",
+        "expression": "pissed",
+        "text": "heh heh heh",
+        "sound": ""
+    }
+	]
+}

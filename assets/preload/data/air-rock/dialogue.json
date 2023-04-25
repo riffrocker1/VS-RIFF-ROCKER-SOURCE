@@ -9,10 +9,10 @@
 			"sound": "air_rock/1"
 		},
 		{
-			"expression": "rage",
+			"expression": "furious",
 			"text": "Aw come on just shut up let me play music and record without you, telling me what to do!",
 			"boxState": "angry",
-			"portrait": "riff-mad",
+			"portrait": "rocker",
 			"speed": 0.05,
 			"sound": "air_rock/2"
 
@@ -42,10 +42,10 @@
 			"sound": "air_rock/5"
 		},
 		{
-			"expression": "talk",
+			"expression": "happy",
 			"text": "Who are you? Want me to take you in and out of the cold for some nice tea?",
 			"boxState": "normal",
-			"portrait": "riff-confused",
+			"portrait": "rocker",
 			"speed": 0.05,
 			"sound": "air_rock/6"
 		},
@@ -90,18 +90,18 @@
 			"sound": "air_rock/11"
 		},
 		{
-			"expression": "excited",
+			"expression": "happy",
 			"text": "Heck yes!",
 			"boxState": "angry",
-			"portrait": "riff-cheer",
+			"portrait": "rocker",
 			"speed": 0.05,
 			"sound": "air_rock/12"
 		},
 		{
-			"expression": "talk",
+			"expression": "happy",
 			"text": "So tell me about you boyfriend , what do you like to do?",
 			"boxState": "normal",
-			"portrait": "riff",
+			"portrait": "rocker",
 			"speed": 0.05,
 			"sound": "air_rock/13"
 		},
@@ -130,10 +130,10 @@
 			"sound": "air_rock/16"
 		},
 		{
-			"expression": "talk",
+			"expression": "not-happy",
 			"text": "where are you going so soon I wanted to offer you to join my band!",
 			"boxState": "normal",
-			"portrait": "riff-confused",
+			"portrait": "rocker",
 			"speed": 0.05,
 			"sound": "air_rock/17"
 		},
@@ -162,18 +162,18 @@
 			"sound": "air_rock/20"
 		},
 		{
-			"expression": "talk",
+			"expression": "happy",
 			"text": "I'll show you",
 			"boxState": "normal",
-			"portrait": "riff-shock",
+			"portrait": "rocker",
 			"speed": 0.05,
 			"sound": "air_rock/21"
 		},
 		{
-			"expression": "excited",
+			"expression": "happy",
 			"text": "get ready this is a banger!!",
 			"boxState": "angry",
-			"portrait": "riff-cheer",
+			"portrait": "rocker",
 			"speed": 0.05,
 			"sound": "air_rock/22"
 		}
