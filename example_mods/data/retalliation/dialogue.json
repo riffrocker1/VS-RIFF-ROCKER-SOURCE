@@ -1,0 +1,108 @@
+{
+  "dialogue": [
+    {
+      "sound": "retalliation/1",
+      "speed": 0.05,
+      "portrait": "bf",
+      "boxState": "normal",
+      "expression": "pissed",
+      "text": "It's time to die Riff Rocker"
+    },
+    {
+      "sound": "retalliation/2",
+      "speed": 0.05,
+      "portrait": "bf",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "Oh hi Riff Rocker sorry but he's right"
+    },
+    {
+      "sound": "retalliation/3",
+      "speed": 0.05,
+      "portrait": "bf",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "Pringledingle why are you doing this to me I didn't deserve any of this"
+    },
+    {
+      "sound": "retalliation/4",
+      "speed": 0.05,
+      "portrait": "bf",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "An old friend of ours told us you were causing trouble with Boyfriend and Girlfriend"
+    },
+    {
+      "sound": "retalliation/5",
+      "speed": 0.05,
+      "portrait": "bf",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "No I just wanted Girlfriend to leave my house but she wouldn't listen"
+    },
+    {
+      "sound": "retalliation/6",
+      "speed": 0.05,
+      "portrait": "bf",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "hmmmmmmmmmm what's this I guess I'll go and see"
+    },
+    {
+      "sound": "retalliation/7",
+      "speed": 0.05,
+      "portrait": "bf",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "Oh these two again"
+    },
+    {
+      "sound": "retalliation/8",
+      "speed": 0.05,
+      "portrait": "bf",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "It's time for me to end all the pain and suffering you guys have caused"
+    },
+    {
+      "sound": "retalliation/9",
+      "speed": 0.05,
+      "portrait": "bf",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "No way we will end you"
+    },
+    {
+      "sound": "retalliation/10",
+      "speed": 0.05,
+      "portrait": "bf",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "you tell him captain"
+    },
+    {
+      "sound": "retalliation/11",
+      "speed": 0.05,
+      "portrait": "bf",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "Just call me Tankman I'm not the captain anymore Knalli is"
+    },
+    {
+      "sound": "",
+      "speed": 0.05,
+      "portrait": "bf",
+      "boxState": "angry",
+      "expression": "talk",
+      "text": "KNALLI SENT YOU GRRRRRRRRRRR IF I EVER SEE HIM AGAIN I WILL HURT HIM"
+    },
+    {
+      "sound": "",
+      "speed": 0.05,
+      "portrait": "bf",
+      "boxState": "angry",
+      "expression": "talk",
+      "text": "BAD"
+    }
+  ]
+}
